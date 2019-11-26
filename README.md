@@ -49,3 +49,7 @@
     - git push 원격저장소 로컬브랜치명 --tags
     - 예) git push origin master --tags # 태그와 함께 브랜치 push
     
+## 저장소 복제
+    - git clone 원저장소 URL
+    - git clone 원저장소 path
+    
