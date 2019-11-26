@@ -23,3 +23,10 @@
 
 ## Staging 추적 제외를 위한 설정 파일
     - .gitignore에 제외할 파일명의 패턴을 명시
+
+## 원격 저장소의 추가
+    - git remote add origin 원격저장소주소
+
+## 원격 저장소에 변경 이력 반영
+    - git push origin 로컬브랜치 이름
+    - git push origin master # 원격저장소(origin)에 로컬 브랜치 master를 업로드
